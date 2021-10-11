@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EzequielPR
-- 👀 I’m interested in Javascript, Node, Vue, Nuxt, C#
-- 🌱 I’m currently learning Blazor, Vue, Nuxt, Node
+- 👋 Hola soy @EzequielPR.
+- 👀 Estoy interesado en JS & TS, Svelte, Node, y C#.
+- 🌱 Actualmente estoy aprendiendo Svelte, Flutter, Vue, y Blazor.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
